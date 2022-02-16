@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **bhandari.jhalak2018@gmail.com**
 
-- ⚡ Motto **Keep learning, keep growing **
+- ⚡ Motto **Keep learning, keep growing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
