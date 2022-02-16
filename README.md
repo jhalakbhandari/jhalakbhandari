@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **bhandari.jhalak2018@gmail.com**
 
-- ⚡ Fun fact **I love to read books except curriculum books**
+- ⚡ Motto **Keep learning, keep growing **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
