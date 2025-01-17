@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Jhalak Bhandari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working for **SPIE@ANDC**
+- 🔭 I’m currently working for **VoicebackAnalytics**
 
-- 🌱 I’m currently learning **TailwindCSS**
+- 🌱 I’m currently learning **DSA**
 
 - 📫 How to reach me **bhandari.jhalak2018@gmail.com**
 
