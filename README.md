@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [https://willowy-snickerdoodle-4484a5.netlify.app/](https://willowy-snickerdoodle-4484a5.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://jhalakbhandari.netlify.app/](https://jhalakbhandari.netlify.app/)
 
 - 📝 I regularly write articles on [Tech](Tech)
 
