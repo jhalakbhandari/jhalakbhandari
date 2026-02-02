@@ -7,7 +7,7 @@
 
 ---
 
-### 👩‍💻 About Me (10-second read)
+### 👩‍💻 About Me
 
 * 💼 Software Developer at **Voiceback Analytics Pvt. Ltd.** (Product-based company)
 * 🚀 1+ year experience building **scalable, production-ready web applications**
