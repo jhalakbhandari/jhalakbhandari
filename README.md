@@ -40,19 +40,10 @@
 * 🔗 LinkedIn: [https://www.linkedin.com/in/jhalak-bhandari-3680961aa](https://www.linkedin.com/in/jhalak-bhandari-3680961aa)
 * 🧩 LeetCode: [https://leetcode.com/jhalakbhandari](https://leetcode.com/jhalakbhandari)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhalakbhandari&show_icons=true&theme=default" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhalakbhandari&layout=compact" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhalakbhandari" />
-</p>
 
 ---
 
 <p align="center">✨ Building clean systems. Shipping real products. Growing every day.</p>
+
+
+---
